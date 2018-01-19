@@ -23,7 +23,7 @@
     "@mapbox/corslite": "0.0.7",
     "leaflet": "1.2.0",
     "leaflet-control-geocoder": "^1.5.4",
-    "leaflet-geocoder-mapzen": "^1.9.4",
+    "leaflet-geocoder-mapzen": "va2ron1/leaflet-geocoder",
     "leaflet-routing-machine": "^3.2.7",
     "leaflet.locatecontrol": "^0.60.0",
     "lrm-mapzen": "^1.3.0",
