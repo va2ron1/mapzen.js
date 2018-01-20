@@ -26,9 +26,9 @@
     "leaflet-geocoder-mapzen": "va2ron1/leaflet-geocoder",
     "leaflet-routing-machine": "^3.2.7",
     "leaflet.locatecontrol": "^0.60.0",
-    "lrm-mapzen": "^1.3.0",
-    "mapzen-scarab": "git+https://github.com/mapzen/scarab.git#v3.1.0",
-    "tangram": "^0.14.1"
+    "lrm-mapzen": "va2ron1/lrm-mapzen",
+    "mapzen-scarab": "va2ron1/scarab",
+    "tangram": "va2ron1/tangram"
   },
   "devDependencies": {
     "babel-preset-es2015": "^6.13.2",
@@ -65,14 +65,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mapzen/mapzen.js.git"
+    "url": "git+https://github.com/va2ron1/mapzen.js.git"
   },
   "author": "MAPZEN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mapzen/mapzen.js/issues"
+    "url": "https://github.com/va2ron1/mapzen.js/issues"
   },
-  "homepage": "https://github.com/mapzen/mapzen.js",
+  "homepage": "https://github.com/va2ron1/mapzen.js",
   "keywords": [
     "map",
     "mapzen",
